@@ -1,4 +1,4 @@
-variable[set];couner;0
+variable[set];counter;0
 labels[label];a
 variable[math];counter;%counter%+1
 print[maybe];%counter%
