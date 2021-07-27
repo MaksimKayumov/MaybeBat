@@ -1,0 +1,4 @@
+labels[label];a
+variable[set];/p a;Input: 
+print[maybe];%a%
+labels[goto];a

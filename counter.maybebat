@@ -1,0 +1,5 @@
+variable[set];couner;0
+labels[label];a
+variable[math];counter;%counter%+1
+print[maybe];%counter%
+labels[goto];a
