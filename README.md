@@ -13,3 +13,7 @@ To Compile Code:
 To Compile and Run:
 
 ```maybebat --run path/to/file```
+## Tutorial For language
+[See Here!](https://github.com/MaksimKayumov/MaybeBat/blob/main/Tutorial.md)
+# Computational class
+It is Turing Complete, because it can be translated to BF!(Cells is variables and [ & ] is labels) :)
