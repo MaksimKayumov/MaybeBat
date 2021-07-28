@@ -13,6 +13,7 @@ To Compile Code:
 To Compile and Run:
 
 ```maybebat --run path/to/file(without extension)```
+
 NOTE: file extension should be .maybebat
 ## Tutorial For language
 [See Here!](https://github.com/MaksimKayumov/MaybeBat/blob/main/Tutorial.md)
