@@ -8,11 +8,12 @@ To view version:
 
 To Compile Code:
 
-```maybebat --compile path/to/file```
+```maybebat --compile path/to/file(without extension)```
 
 To Compile and Run:
 
-```maybebat --run path/to/file```
+```maybebat --run path/to/file(without extension)```
+NOTE: file extension should be .maybebat
 ## Tutorial For language
 [See Here!](https://github.com/MaksimKayumov/MaybeBat/blob/main/Tutorial.md)
 # Computational class
