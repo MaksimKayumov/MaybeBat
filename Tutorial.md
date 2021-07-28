@@ -47,9 +47,9 @@ labels[goto];labelname
 ### if ... goto
 If equal goto:
 ```
-if[goto];variable;value;label
+if[goto];%variable%;value;label
 ```
 For less and greter use if[batch]:
 ```
-if[batch];variable;LSS or == or GTR;value;label
+if[batch];%variable%;LSS or == or GTR;value;label
 ```
