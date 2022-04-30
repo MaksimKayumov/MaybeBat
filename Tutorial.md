@@ -7,7 +7,7 @@ For Printing Use Command print[maybe]:
 print[maybe];hello!
 ```
 ### Pause
-For Pause Use wait[buttor]:
+For Pause Use wait[button]:
 ```
 wait[button]
 ```
@@ -38,7 +38,7 @@ print[maybe];%variablename%
 ### labels
 Declare new label:
 ```
-labels[labels];labelname
+labels[label];labelname
 ```
 Goto:
 ```
